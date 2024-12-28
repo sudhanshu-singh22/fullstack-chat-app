@@ -1,4 +1,4 @@
-<font size="9">Real-Time Chat Application</font>
+<h1>Real-Time Chat Application</h1>
 
 This is a real-time chat application built using modern web technologies, allowing users to connect and communicate seamlessly. It features user authentication, live messaging, and online user tracking.
 
@@ -27,6 +27,8 @@ Messages stored in MongoDB for reliable access
 
 
 <font size="5">Technologies Used</font>
+
+
 **Backend**
 
 Node.js: Server-side runtime.
