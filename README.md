@@ -57,7 +57,7 @@ Cors: Cross-origin resource sharing.
 
 Cookie-Parser: Handling cookies.
 
-<font size="5">Usage</font>
+<font size="5">**Usage**</font>
 
 Access the live application at https://fullstack-chat-app-165y.onrender.com.
 
