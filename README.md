@@ -61,7 +61,7 @@ Cookie-Parser: Handling cookies.
 
 <font size="5">**Usage**</font>
 
-Access the live application at https://fullstack-chat-app-165y.onrender.com.
+Access the live application at https://fullstack-chat-app-165y.onrender.com
 
 Register or log in to your account.
 
